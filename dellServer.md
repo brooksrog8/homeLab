@@ -1,4 +1,4 @@
-# Dell poweredge R410 Homelab Setup
+# Dell poweredge R410 Homelab Setup ubuntu (old)
  
  11/23/2023
  
