@@ -1,4 +1,4 @@
-# This is how you access the fileShare on windows
+# This is how you access the fileShare on windows locally
 
 Right click on the start icon in the taskbar and click run.
 then type this into open:
