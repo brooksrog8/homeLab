@@ -1,3 +1,3 @@
 # homelabServer
 
-homelab project
+My homelab
